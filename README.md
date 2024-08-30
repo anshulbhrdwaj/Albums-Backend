@@ -1,0 +1,1 @@
+mongod -dbpath Documents/Programming\ Project\ \&\ Practice/Bot-Backend/mongodb/ 
